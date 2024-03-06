@@ -1,4 +1,4 @@
-# kickstart-modular.nvim
+# Bitten's kickstart-modular.nvim Fork
 
 ## Introduction
 
