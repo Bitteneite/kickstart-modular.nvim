@@ -6,11 +6,7 @@ return {
 	
 	-- Start + Config
 	config = function()
-		require("modicator").setup({
-			triggers_blacklist = {
-                n = { "d", "y" }
-			}
-		})
+		require("modicator").setup()
 	end,
 		
 	opts = {
