@@ -59,8 +59,8 @@ vim.opt.cursorline = true
 
 -- If running Neovide...
 if vim.g.neovide then
-	-- JetBrains Font
-    vim.o.guifont = "JetBrainsMono Nerd Font Mono:h14" -- text below applies for VimScript
+  -- JetBrains Font
+  vim.o.guifont = 'JetBrainsMono Nerd Font Mono:h12' -- text below applies for VimScript
 end
 
 -- Minimal number of screen lines to keep above and below the cursor.
